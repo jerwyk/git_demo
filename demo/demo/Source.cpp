@@ -15,6 +15,14 @@ int main()
 		aa = 5;
 	}
 
+	//just some random comments
+	//afsafsdosaigfksf
+	//opahhfioeh78hiugiuahahfuiafh
+
+	int a = 0;
+
+	std::cin >> a;
+
 	return 0;
 
 }
